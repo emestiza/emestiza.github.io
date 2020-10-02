@@ -1,0 +1,30 @@
+nav {
+  background-color: rgb(70,130,180);
+}
+
+header > h1 {
+  color: white;
+}
+
+.jumbotron > h1 {
+  color: white;
+}
+
+.jumbotron {
+  background-color: rgb(176, 196, 222);
+}
+
+.jumbotron > div {
+  background-color: rgb(70,130,180);
+}
+
+body {
+  /* background-color: #e9ecef; */
+  background-color: rgb(176, 196, 222);
+
+}
+
+.container {
+  background-color: rgb(176, 196, 222);
+}
+
